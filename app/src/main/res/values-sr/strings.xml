@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">"Hvala! "</string>
+    <string name="toppings">"Prelivi "</string>
+    <string name="total">Ukupno: din</string>
+    <string name="quantity">"Količina: "</string>
+    <string name="add_chocolate">\"Dodati čokoladu?\"</string>
+    <string name="add_cream">\"Dodati šlag?\"</string>
+    <string name="name">"Ime: "</string>
+    <string name="costumer_name">"Za: "</string>
+</resources>
